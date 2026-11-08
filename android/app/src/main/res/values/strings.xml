@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">গতি স্টুডিও</string>
+    <string name="title_activity_main">গতি স্টুডিও</string>
+    <string name="package_name">com.gati.studio</string>
+    <string name="custom_url_scheme">com.gati.studio</string>
+</resources>

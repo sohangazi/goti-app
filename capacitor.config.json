@@ -1,0 +1,6 @@
+{
+  "appId": "com.gati.studio",
+  "appName": "গতি স্টুডিও",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
